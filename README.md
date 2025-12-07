@@ -5,4 +5,4 @@ This is for the automated test
 
 This is for running a seeecond test, just to be sure
 
-This is for a test. Github -> Jenkins -> Nexus
+This is for a test. Github -> Jenkins -> Nexus wish me luck!
