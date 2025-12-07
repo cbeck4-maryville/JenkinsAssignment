@@ -4,7 +4,7 @@
 using namespace tinyxml2;
 using namespace std;
 
-// just saying hi
+// just saying hi!
 int main(int argc, char* argv[]) {
     if (argc != 2) {
         cout << "Usage: " << argv[0] << " <xmlfile>\n";
