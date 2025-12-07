@@ -30,6 +30,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+    // i made this comment from my iphone
     // Look for all <title> elements anywhere in document
     XMLElement* title = root->FirstChildElement("book");
     while (title) {
