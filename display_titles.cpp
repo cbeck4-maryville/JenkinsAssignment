@@ -20,7 +20,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    // Get root element
+    // Get the root element
     XMLElement* root = doc.RootElement();
     if (!root) {
         cout << "No root element\n";
