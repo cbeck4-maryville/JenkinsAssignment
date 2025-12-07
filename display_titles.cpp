@@ -22,6 +22,7 @@ int main(int argc, char* argv[]) {
     }
 
     // This is a secret message
+    // beep boop boop beep beep boop beep boop boop beep boop baap beep boop
     // Get the root element
     XMLElement* root = doc.RootElement();
     if (!root) {
