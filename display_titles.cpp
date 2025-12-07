@@ -21,6 +21,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+    // This is a secret message
     // Get the root element
     XMLElement* root = doc.RootElement();
     if (!root) {
