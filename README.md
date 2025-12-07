@@ -4,3 +4,5 @@ This is the repository for the Jenkins assignment in which we create a manual an
 This is for the automated test
 
 This is for running a seeecond test, just to be sure
+
+This is for a test. Github -> Jenkins -> Nexus
