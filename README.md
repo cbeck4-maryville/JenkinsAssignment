@@ -8,3 +8,5 @@ This is for running a seeecond test, just to be sure
 1. This is for a test. Github -> Jenkins -> Nexus 2. wish me luck! 3. Third tiems the charm!
 
 Just another test
+
+This is for another test in which jenkins has been updated to not only build, but also run the exe and save the output as a text file in the same directory.
