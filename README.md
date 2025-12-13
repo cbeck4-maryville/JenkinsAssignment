@@ -10,3 +10,5 @@ This is for running a seeecond test, just to be sure
 Just another test
 
 This is for another test in which jenkins has been updated to not only build, but also run the exe and save the output as a text file in the same directory.
+
+this is a test crom my phone
