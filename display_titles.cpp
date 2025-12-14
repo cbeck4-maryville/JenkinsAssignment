@@ -42,7 +42,7 @@ int main(int argc, char* argv[]) {
     }
 
     cout << "\n";
-    cout << "If you see this then the pipeline works correctly!";
+    cout << "If you see this then the pipeline works correctly!\n";
     return 0;
 }
 
