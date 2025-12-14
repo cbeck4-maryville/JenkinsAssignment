@@ -41,8 +41,8 @@ int main(int argc, char* argv[]) {
         title = title->NextSiblingElement("book");
     }
 
-    cout << "\n";
-    cout << "If you see this then the pipeline works correctly!\n";
+    //cout << "\n";
+    //cout << "If you see this then the pipeline works correctly!\n";
     return 0;
 }
 
